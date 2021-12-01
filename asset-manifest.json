@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/detododulcesol/static/css/main.5a07a9d2.chunk.css",
+    "main.js": "/detododulcesol/static/js/main.086302f2.chunk.js",
+    "main.js.map": "/detododulcesol/static/js/main.086302f2.chunk.js.map",
+    "runtime-main.js": "/detododulcesol/static/js/runtime-main.23750839.js",
+    "runtime-main.js.map": "/detododulcesol/static/js/runtime-main.23750839.js.map",
+    "static/js/2.6f8a1d19.chunk.js": "/detododulcesol/static/js/2.6f8a1d19.chunk.js",
+    "static/js/2.6f8a1d19.chunk.js.map": "/detododulcesol/static/js/2.6f8a1d19.chunk.js.map",
+    "static/js/3.3ebf6452.chunk.js": "/detododulcesol/static/js/3.3ebf6452.chunk.js",
+    "static/js/3.3ebf6452.chunk.js.map": "/detododulcesol/static/js/3.3ebf6452.chunk.js.map",
+    "index.html": "/detododulcesol/index.html",
+    "static/css/main.5a07a9d2.chunk.css.map": "/detododulcesol/static/css/main.5a07a9d2.chunk.css.map",
+    "static/js/2.6f8a1d19.chunk.js.LICENSE.txt": "/detododulcesol/static/js/2.6f8a1d19.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/detododulcesol/static/media/header.97a9cf72.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23750839.js",
+    "static/js/2.6f8a1d19.chunk.js",
+    "static/css/main.5a07a9d2.chunk.css",
+    "static/js/main.086302f2.chunk.js"
+  ]
+}
